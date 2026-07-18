@@ -139,6 +139,8 @@ Employee deleted successfully!
 
 ## 👩‍💻 Author
 
-**Lavanya**
+**Lavanya M**
 
-B.Sc. Computer Science
+Built as part of the DevRise Internship Program — Batch 1 (2026), Task 2 (Java Development domain).
+
+📧 Feedback & suggestions welcome via GitHub Issues.
